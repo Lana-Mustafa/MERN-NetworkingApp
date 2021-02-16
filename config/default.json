@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://Lana-Mustafa:Orange123@oca.wksjt.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://Lana-Mustafa:Orange123@oca.wksjt.mongodb.net/oca?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
 }
